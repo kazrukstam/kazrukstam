@@ -1,31 +1,5 @@
 - 👋 Hi, I’m @kazrukstam
-- 👀 I’m interested in IT (computers, servers, cable connections), programming, audio solutions and much, much more
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in IT (computers, servers, cable connections), Linux, programming, audio solutions and much, much more
+- 🌱 I’m currently learning HTML5, CSS, PHP, C++ and English language hehe (English isn't my native language)
+- 💞️ I’m looking to collaborate on Minecraft servers, small linux servers administration and creation of simple websites
 - 📫 How to reach me? E-mail: kontakt.kazrukstam@gmail.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
